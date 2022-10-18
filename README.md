@@ -196,6 +196,7 @@ class SpatialTransformer(nn.Module):
 
 ## Correct predictions
 
+
 ![Figure_1](https://user-images.githubusercontent.com/81184255/196341383-9b728de5-738b-4a3a-8dd2-877d1876ee68.png)
 
 ![Figure_2](https://user-images.githubusercontent.com/81184255/196341416-06b0c49a-9004-456d-a3c1-e232fb0dff69.png)
@@ -210,10 +211,14 @@ class SpatialTransformer(nn.Module):
 
 ![Figure_14](https://user-images.githubusercontent.com/81184255/196341660-3db4507b-55a2-4670-b07b-a5a7e2520483.png)
 
+![Figure_12](https://user-images.githubusercontent.com/81184255/196342149-70cc3e3b-ad3f-4cab-83c5-3134cc5f7971.png)
+
+![Figure_15](https://user-images.githubusercontent.com/81184255/196342182-b22cf965-38ab-4621-8f38-66d66cd46f6f.png)
 
 
 
 ## Misnomers:
+
 
 ![Figure_16](https://user-images.githubusercontent.com/81184255/196341599-fa253cd8-bce7-4902-99c1-ceb90b954f73.png)
 
@@ -226,12 +231,3 @@ class SpatialTransformer(nn.Module):
 ![Figure_13](https://user-images.githubusercontent.com/81184255/196341779-c00245f0-2d0e-4fe2-b218-a0f86d44e8aa.png)
 
 ![Figure_9](https://user-images.githubusercontent.com/81184255/196341812-cc403e42-ec1e-42e9-8dc7-9245be3a764f.png)
-
-
-
-
-
-
-
-
-
