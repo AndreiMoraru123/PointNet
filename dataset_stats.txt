@@ -1,0 +1,15 @@
+Train dataset size: 3991
+Valid dataset size: 908
+Number of classes: 10
+Sample pointcloud shape: torch.Size([1024, 3])
+bathtub: 0
+bed: 1
+chair: 2
+desk: 3
+dresser: 4
+monitor: 5
+night_stand: 6
+sofa: 7
+table: 8
+toilet: 9
+Device: cuda
