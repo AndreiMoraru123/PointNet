@@ -19,6 +19,19 @@ PyTorch implementation of PointNet for 3D Point Clouds classification
 
 ### Trained and tested on ModelNet10 (https://modelnet.cs.princeton.edu) for the 10 classes
 
+```
+bathtub: 0
+bed: 1
+chair: 2
+desk: 3
+dresser: 4
+monitor: 5
+night_stand: 6
+sofa: 7
+table: 8
+toilet: 9
+```
+
 ![face](https://user-images.githubusercontent.com/81184255/196343885-c14d4394-e08b-4b72-b602-b75199db0663.gif)
 
 ![pointcloud_min](https://user-images.githubusercontent.com/81184255/196346649-2502cf31-e3d2-41e7-a403-da0919e571d7.gif)
