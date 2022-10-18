@@ -199,7 +199,7 @@ class SpatialTransformer(nn.Module):
 
 # Results:
 
-## Correct predictions
+## Correct predictions:
 
 
 ![Figure_1](https://user-images.githubusercontent.com/81184255/196341383-9b728de5-738b-4a3a-8dd2-877d1876ee68.png)
