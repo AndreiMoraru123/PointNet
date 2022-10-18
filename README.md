@@ -21,7 +21,8 @@ PyTorch implementation of PointNet
 
 ![face](https://user-images.githubusercontent.com/81184255/196343885-c14d4394-e08b-4b72-b602-b75199db0663.gif)
 
-[Untitled.webm](https://user-images.githubusercontent.com/81184255/196346000-7ae5e341-6b6d-4711-8b45-650b85ee237b.webm)
+![pointcloud_min](https://user-images.githubusercontent.com/81184255/196346649-2502cf31-e3d2-41e7-a403-da0919e571d7.gif)
+
 
 
 # Model
