@@ -17,7 +17,7 @@ PyTorch implementation of PointNet
 ```
 
 
-### Tested on ModelNet10 (https://modelnet.cs.princeton.edu) for the 10 classes
+### Trained and tested on ModelNet10 (https://modelnet.cs.princeton.edu) for the 10 classes
 
 ![face](https://user-images.githubusercontent.com/81184255/196343885-c14d4394-e08b-4b72-b602-b75199db0663.gif)
 
