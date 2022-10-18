@@ -16,6 +16,18 @@ PyTorch implementation of PointNet for 3D Point Clouds classification
 }
 ```
 
+### Train
+
+```console
+python train.py
+```
+
+### Evaluate
+
+```console
+python inference.py
+```
+
 
 ### Trained and tested on ModelNet10 (https://modelnet.cs.princeton.edu) for the 10 classes
 
