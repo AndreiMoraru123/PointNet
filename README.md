@@ -1,7 +1,8 @@
 # PointNet
 PyTorch implementation of PointNet for 3D Point Clouds classification
 
-![image](https://user-images.githubusercontent.com/81184255/196339697-2374f939-6fc3-4252-b4c5-1ec2a3e2311b.png)
+![pointnet](https://user-images.githubusercontent.com/81184255/197140870-01b273c2-3ad8-456f-b4c3-75f235ccb61e.png)
+
 
 ```
 @misc{https://doi.org/10.48550/arxiv.1612.00593,
