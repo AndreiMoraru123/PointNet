@@ -17,6 +17,8 @@ PyTorch implementation of PointNet for 3D Point Clouds classification
 }
 ```
 
+Original Repo: https://github.com/fxia22/pointnet.pytorch
+
 ### Train
 
 ```console
