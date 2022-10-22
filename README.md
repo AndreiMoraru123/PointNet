@@ -21,13 +21,13 @@ Original Repo: https://github.com/fxia22/pointnet.pytorch
 
 ### Train
 
-```console
+```bash
 > python train.py
 ```
 
 ### Evaluate
 
-```console
+```bash
 > python inference.py
 ```
 
