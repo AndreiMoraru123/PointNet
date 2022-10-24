@@ -32,7 +32,7 @@ Original Repo: https://github.com/fxia22/pointnet.pytorch
 ```
 
 
-### Trained and tested on ModelNet10 (https://modelnet.cs.princeton.edu) for the 10 classes
+### Trained and tested on [ModelNet10](https://modelnet.cs.princeton.edu) for the 10 classes
 
 ```
 bathtub: 0
