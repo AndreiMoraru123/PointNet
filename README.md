@@ -1,4 +1,4 @@
-# PointNet :fire:
+# PointNet
 PyTorch implementation of PointNet for 3D Point Cloud classification
 
 ![pointnet](https://user-images.githubusercontent.com/81184255/197140870-01b273c2-3ad8-456f-b4c3-75f235ccb61e.png)
