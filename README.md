@@ -159,7 +159,7 @@ class TNet(nn.Module):
 
 ![image](https://user-images.githubusercontent.com/81184255/196340854-ff1887c2-0cce-4d5e-8964-4e2d68ce89eb.png)
 
-```
+```bibtex
 @unknown{unknown,
 author = {Gutierrez Becker, Benjamín and Wachinger, Christian},
 year = {2018},
@@ -212,7 +212,7 @@ class SpatialTransformer(nn.Module):
         return x, tr3x3, tr64x64
 ```
 
-```
+```bibtex
 @misc{https://doi.org/10.48550/arxiv.1506.02025,
   doi = {10.48550/ARXIV.1506.02025},
   url = {https://arxiv.org/abs/1506.02025},
