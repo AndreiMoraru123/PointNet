@@ -17,7 +17,9 @@ PyTorch implementation of PointNet for 3D Point Cloud classification
 }
 ```
 
-Original Repo: https://github.com/fxia22/pointnet.pytorch
+Original Repo is here: https://github.com/fxia22/pointnet.pytorch
+
+and here is a helpful [medium article](https://towardsdatascience.com/deep-learning-on-point-clouds-implementing-pointnet-in-google-colab-1fd65cd3a263) from which I stole the 3D visuals.
 
 ### Train
 
