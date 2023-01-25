@@ -1,5 +1,8 @@
 # PointNet
-PyTorch implementation of PointNet for 3D Point Cloud classification
+
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+Implementation of PointNet for 3D Point Cloud classification
 
 ![pointnet](https://user-images.githubusercontent.com/81184255/197140870-01b273c2-3ad8-456f-b4c3-75f235ccb61e.png)
 
