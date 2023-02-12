@@ -27,13 +27,13 @@ and here is a helpful [medium article](https://towardsdatascience.com/deep-learn
 ### Train
 
 ```bash
-> python train.py
+python train.py
 ```
 
 ### Evaluate
 
 ```bash
-> python inference.py
+python inference.py
 ```
 
 
