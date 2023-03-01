@@ -1,5 +1,5 @@
 from Transforms import PointSampler, RandomRotation, Normalize, PointCloudToTensor, RandomScale, RandomTranslation, RandomNoise
-from vizualizer import pcshow, visualize_rotate
+from visualizer import pcshow, visualize_rotate
 import plotly.graph_objects as go
 import numpy as np
 
