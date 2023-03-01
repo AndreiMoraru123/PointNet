@@ -1,6 +1,6 @@
 from tqdm import tqdm
 from Transforms import *
-from DataLoader import *
+from Dataset import *
 from PointNet import *
 
 
